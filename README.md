@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hoàng Ngọc Linh</h1>
-<h3 align="center">A passionate frontend developer from Việt Nam</h3>
 
 - 🔭 I’m currently studying at **PTIT( Posts and Telecommunications Instute of Technology**
 
